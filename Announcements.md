@@ -4,14 +4,14 @@ title: Announcements
 permalink: /announcements/
 order: 1
 announcements:
-    - title: "Upload Your Zoho Profile Picture"
-      date: "17th Jan 2026"
-      description: "In this activity, students are required to set a clear and professional profile picture in their Zoho account so that it is visible to everyone."
-      content: "Explore your Zoho account settings and look for options related to your profile and visibility. You may need to search online or refer to Zoho’s official help resources to find where profile pictures and privacy settings are managed. Ensure your uploaded photo clearly shows your face and is visible to others on the platform."
     - title: "LinkedIn Post - First Week Internship Experience"
       date: "18th Jan 2026"
       description: "Share your first week internship experience on LinkedIn to build your professional network and engage with the cohort."
       content: "We want to incentivize your LinkedIn activity by throwing a challenge with exciting gifts and perks in store. Create a post sharing all that you have learnt during your first week's internship experience. This will help you build connections with the current cohort, expand your network as people comment on your posts, and potentially discover new opportunities. Write a short and crisp message, include a GenAI image to attract attention, tag the supporting organizations (Vicharanashala lab, Annam.ai, IIT Ropar, NPTEL, and your college), and tag the mentors. Share your post link on the Cliq channel. For complete guidelines and detailed instructions, visit the [LinkedIn Post Activity](../linkedin_post/) page."
+    - title: "ViBe Learning Activity & HP Opportunity"
+      date: "20th Jan 2026"
+      description: "Pinterns are encouraged to log in to ViBe at 9:00 PM today and engage with course content for at least 30 minutes to earn Health Points."
+      content: "Today at 9:00 PM, all Pinterns are encouraged to log in to ViBe and actively engage with the course content on ViBe for at least 30 minutes as part of their regular learning activity. This is a great opportunity to get ahead in your course progress, explore the platform, and earn positive Health Points (HP) for participation. Participants who log in and remain actively engaged during this time will be rewarded with additional HP. We strongly encourage everyone to take part and make the most of this learning window. Your participation and consistency matter. Let’s learn, explore, and progress together 🚀"
 
     # - title: ""
     #   date: ""
